@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  3 DEC 2015 20:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 JAN 2016 15:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**ex2.tex
-(./ex2.tex
+**report3.tex
+(./report3.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
@@ -544,36 +544,38 @@ subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
 \c@algocf=\count127
 \algocf@algoframe=\box45
 \algocf@algobox=\box46
-) (./ex2.aux
+) (./report3.aux
 LaTeX Font Info:    Try loading font information for LGR+cmr on input line 2.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 ))
-\openout1 = `ex2.aux'.
+\openout1 = `report3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Try loading font information for OT1+mak on input line 13.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/kerkis/ot1mak.fd)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Try loading font information for OT1+mak on input line 14.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/kerkis/ot1mak.fd)
 LaTeX Font Info:    Font shape `OT1/mak/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 13.
-LaTeX Font Info:    Try loading font information for LGR+mak on input line 13.
+(Font)              scaled to size 10.79993pt on input line 14.
+LaTeX Font Info:    Try loading font information for LGR+mak on input line 14.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kerkis/lgrmak.fd)
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 13.
+(Font)              scaled to size 10.79993pt on input line 14.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
@@ -719,98 +721,151 @@ ABD: EveryShipout initializing macros
 <pyrforos.jpg, id=4, 431.36156pt x 426.84468pt>
 File: pyrforos.jpg Graphic file (type jpg)
  <use pyrforos.jpg>
-Package pdftex.def Info: pyrforos.jpg used on input line 17.
+Package pdftex.def Info: pyrforos.jpg used on input line 18.
 (pdftex.def)             Requested size: 129.40945pt x 128.05438pt.
 LaTeX Font Info:    Font shape `LGR/mak/m/sc' will be
-(Font)              scaled to size 10.79993pt on input line 19.
+(Font)              scaled to size 10.79993pt on input line 20.
 LaTeX Font Info:    Font shape `LGR/mak/m/sc' will be
-(Font)              scaled to size 18.66588pt on input line 19.
+(Font)              scaled to size 18.66588pt on input line 20.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-3.def
 File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 )
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
-(Font)              scaled to size 22.39185pt on input line 25.
+(Font)              scaled to size 22.39185pt on input line 26.
 LaTeX Font Info:    Font shape `LGR/mak/bx/n' will be
-(Font)              scaled to size 22.39185pt on input line 25.
+(Font)              scaled to size 22.39185pt on input line 26.
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
-(Font)              scaled to size 15.55188pt on input line 30.
+(Font)              scaled to size 15.55188pt on input line 31.
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
 (Font)              scaled to size 12.9599pt on input line 37.
 LaTeX Font Info:    Font shape `OT1/mak/m/n' will be
-(Font)              scaled to size 12.9599pt on input line 40.
+(Font)              scaled to size 12.9599pt on input line 39.
  [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./pyrfo
 ros.jpg>]
 LaTeX Font Info:    Font shape `LGR/mak/bx/n' will be
-(Font)              scaled to size 15.55188pt on input line 53.
-
-<ask2-fork.png, id=14, 619.31375pt x 347.2975pt>
-File: ask2-fork.png Graphic file (type png)
- <use ask2-fork.png>
-Package pdftex.def Info: ask2-fork.png used on input line 59.
-(pdftex.def)             Requested size: 309.65611pt x 173.64832pt.
+(Font)              scaled to size 15.55188pt on input line 50.
 LaTeX Font Info:    Font shape `LGR/mak/bx/n' will be
-(Font)              scaled to size 12.9599pt on input line 61.
-LaTeX Font Info:    Try loading font information for U+msa on input line 62.
+(Font)              scaled to size 12.9599pt on input line 56.
+LaTeX Font Info:    Try loading font information for OMS+mak on input line 64.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/kerkis/omsmak.fd
+File: omsmak.fd 
+)
+LaTeX Font Info:    Font shape `OMS/mak/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 64.
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--84
+
+ []
+
+LaTeX Font Info:    Font shape `LGR/mak/bx/n' will be
+(Font)              scaled to size 10.79993pt on input line 88.
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
+ []
+
+[1] <ask3-sync.png, id=18, 336.25626pt x 310.15875pt>
+File: ask3-sync.png Graphic file (type png)
+ <use ask3-sync.png>
+Package pdftex.def Info: ask3-sync.png used on input line 93.
+(pdftex.def)             Requested size: 168.12772pt x 155.079pt.
+
+Overfull \hbox (80.60623pt too wide) in paragraph at lines 96--97
+\LGR/mak/m/n/12 Parakˆtw blèpou-me tic e-nto-lèc \OT1/mak/m/n/12 as-sem-bly \LG
+R/mak/m/n/12 stic o-po-Ðec me-ta-glwt-tÐze-tai h \OT1/mak/m/n/12 sync_fetch_and
+_sub\LGR/mak/m/n/12 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+<ask3-atomic.png, id=20, 322.20375pt x 122.4575pt>
+File: ask3-atomic.png Graphic file (type png)
+ <use ask3-atomic.png>
+Package pdftex.def Info: ask3-atomic.png used on input line 98.
+(pdftex.def)             Requested size: 161.10147pt x 61.22859pt.
+
+<ask3-mutex.png, id=21, 316.18124pt x 258.9675pt>
+File: ask3-mutex.png Graphic file (type png)
+ <use ask3-mutex.png>
+Package pdftex.def Info: ask3-mutex.png used on input line 104.
+(pdftex.def)             Requested size: 158.09023pt x 129.48341pt.
+
+Overfull \hbox (4.70335pt too wide) in paragraph at lines 103--105
+\LGR/mak/m/n/12 O a-ntÐstoi-qoc k¸di-kac \OT1/mak/m/n/12 as-sem-bly \LGR/mak/m/
+n/12 pou pa-rˆge-tai gia thn \OT1/mak/m/n/12 pth-re-ad_mutex_lock()
+ []
+
+[2 <./ask3-sync.png> <./ask3-atomic.png>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 112.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 62.
+LaTeX Font Info:    Try loading font information for U+msb on input line 112.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 62.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 112.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-) [1 <./ask2-fork.png>] <ask2-tree.png, id=22, 540.0175pt x 326.21875pt>
-File: ask2-tree.png Graphic file (type png)
- <use ask2-tree.png>
-Package pdftex.def Info: ask2-tree.png used on input line 78.
-(pdftex.def)             Requested size: 270.00809pt x 163.10896pt.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
-<ask2-signals.png, id=23, 547.04375pt x 663.47874pt>
-File: ask2-signals.png Graphic file (type png)
- <use ask2-signals.png>
-Package pdftex.def Info: ask2-signals.png used on input line 90.
-(pdftex.def)             Requested size: 273.5212pt x 331.73856pt.
-
-[2 <./ask2-tree.png>] [3 <./ask2-signals.png>]
-<ask2-pipes.png, id=32, 554.07pt x 349.305pt>
-File: ask2-pipes.png Graphic file (type png)
- <use ask2-pipes.png>
-Package pdftex.def Info: ask2-pipes.png used on input line 122.
-(pdftex.def)             Requested size: 277.03432pt x 174.65207pt.
- [4 <./ask2-pipes.png>] [5]
-Overfull \hbox (23.1831pt too wide) in paragraph at lines 149--150
-\LGR/mak/m/n/12 xer-ga-stèc den ja a-xio-poi-h-jo-Ôn kai e-po-mènwc a-po-te-lo-
-Ôn spa-tˆlh pìrwn.Ligìteroi
  []
 
-[6] (./ex2.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--133
+
+ []
+
+[3 <./ask3-mutex.png>] [4] [5] [6] [7] (./report3.aux) ) 
 Here is how much of TeX's memory you used:
- 15873 strings out of 493089
- 299091 string characters out of 6134842
+ 15884 strings out of 493089
+ 299310 string characters out of 6134842
  351469 words of memory out of 5000000
- 19020 multiletter control sequences out of 15000+600000
- 21104 words of font info for 56 fonts, out of 8000000 for 9000
+ 19026 multiletter control sequences out of 15000+600000
+ 22886 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,54p,1043b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/kerkis/ker
-kis.enc}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/kerkis/gpkerkis.enc
-}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/kerkis/Kerkis-Bold.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/kerkis/Kerkis-SmallCaps.
-pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/kerkis/Kerkis.pfb></
-usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on ex2.pdf (7 pages, 511745 bytes).
+ 55i,6n,54p,897b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/201
+5/texmf-dist/fonts/enc/dvips/kerkis/kmsym.enc}{/usr/local/texlive/2015/texmf-di
+st/fonts/enc/dvips/kerkis/kerkis.enc}{/usr/local/texlive/2015/texmf-dist/fonts/
+enc/dvips/kerkis/gpkerkis.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/p
+ublic/kerkis/Kerkis-Bold.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/kerkis/Kerkis-SmallCaps.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
+1/public/kerkis/Kerkis.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/k
+erkis/ktsy.pfb>
+Output written on report3.pdf (8 pages, 319374 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 75 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
