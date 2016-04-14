@@ -62,4 +62,4 @@ sigchld-example.o: sigchld-example.c
 	$(CC) $(CFLAGS) -o sigchld-example.o -c sigchld-example.c
 
 clean:
-	rm -f scheduler scheduler-shell shell prog execve-example strace-test sigchld-example *.o
+	rm -f scheduler prioscheduler scheduler-shell shell prog execve-example strace-test sigchld-example *.o
